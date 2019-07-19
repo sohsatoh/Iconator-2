@@ -3,7 +3,9 @@
 ## ホーム画面の見た目を自由に変更
 
 
-iPhone XS Max, iPhone XR (iOS12.1.1)でテスト済み    
+iPhone XS Max, iPhone XR (iOS12.1.1),  iPhone X (iOS12.1.2)でテスト済み 
+  
+**Iconator11を購入済みの場合は無料です**
   
   
 **クイック設定**
