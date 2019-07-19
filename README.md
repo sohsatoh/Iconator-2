@@ -1,6 +1,6 @@
 # Iconator2
 
-## ホーム画面の見た目を自由に変更
+### ホーム画面の見た目を自由に変更
 
 
 iPhone XS Max, iPhone XR (iOS12.1.1),  iPhone X (iOS12.1.2)でテスト済み 
