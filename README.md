@@ -5,7 +5,7 @@
 
 iPhone XS Max, iPhone XR (iOS12.1.1),  iPhone X (iOS12.1.2)でテスト済み 
   
-**Iconator11を購入済みの場合は無料です**
+**Iconator11を購入済みの場合は0.50USDです**
   
 (設定は引き継げません）
   
